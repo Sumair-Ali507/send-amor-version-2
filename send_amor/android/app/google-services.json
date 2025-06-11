@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "1032723330181",
+    "project_id": "dua-portfolio",
+    "storage_bucket": "dua-portfolio.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1032723330181:android:5353909402a8d1ec5765ec",
+        "android_client_info": {
+          "package_name": "com.example.send_amor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1032723330181-e4276dofuavoeaoqgm94dlc1oik64sd5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeXnwcMBK0P5tcwjLyV5E6D4duJiW1L94"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1032723330181-e4276dofuavoeaoqgm94dlc1oik64sd5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1032723330181-6spajjp6klcm8o0f8j19tqtsl0f27k22.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.sendAmor"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1032723330181:android:d392ea65cb89c0455765ec",
+        "android_client_info": {
+          "package_name": "com.mycompany.authtest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1032723330181-e4276dofuavoeaoqgm94dlc1oik64sd5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeXnwcMBK0P5tcwjLyV5E6D4duJiW1L94"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1032723330181-e4276dofuavoeaoqgm94dlc1oik64sd5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1032723330181-6spajjp6klcm8o0f8j19tqtsl0f27k22.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.sendAmor"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
